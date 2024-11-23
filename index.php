@@ -11,7 +11,7 @@
   <?php require "blocks/header.php"?>
     </div>
     <div class='container'>
-      <h3 class='mb-5'>Наши статьи</h3>
+      <h3 class='mb-5'>Наши статьи1</h3>
 
       <div class='row d-flex'>
         <?php
